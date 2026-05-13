@@ -1546,7 +1546,7 @@ export default function PhotoLayoutGenerator() {
             <div className="flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-gray-800/50 to-gray-700/50 border border-gray-600/30 backdrop-blur-sm">
               <Sparkles className="w-4 h-4 text-blue-400" />
               <span className="text-sm font-medium bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-                Built By Narender Singh
+                Built By @Jitendrauno
               </span>
             </div>
             <div className="h-px bg-gradient-to-r from-transparent via-gray-600 to-transparent flex-1 max-w-32"></div>
@@ -1554,7 +1554,7 @@ export default function PhotoLayoutGenerator() {
 
           <div className="flex items-center justify-center gap-2">
             <a
-              href="https://www.linkedin.com/in/narendersingh1"
+              href="https://www.linkedin.com/in/jitendrapaluno"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-blue-600/20 to-blue-500/20 border border-blue-500/30 text-blue-400 hover:from-blue-600/30 hover:to-blue-500/30 hover:border-blue-400/50 transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-blue-500/20"
